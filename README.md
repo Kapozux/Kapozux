@@ -1,10 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E5E4E,100:6FA287&height=200&section=header&text=Kerwin&fontSize=64&fontColor=ffffff&desc=Tools%20for%20long-term%20personal%20text%20and%20recordings&descAlignY=62&descSize=18&animation=fadeIn" alt="Kerwin" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E5E4E,100:6FA287&height=220&section=header&text=Kerwin&fontSize=64&fontAlignY=36&fontColor=ffffff&desc=Tools%20for%20long-term%20personal%20text%20and%20recordings&descAlignY=60&descSize=18&animation=fadeIn" alt="Kerwin" />
 </p>
 
 <p align="center">
   <a href="mailto:kapozux@gmail.com"><img src="https://img.shields.io/badge/Email-kapozux%40gmail.com-2E5E4E?logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/Kapozux"><img src="https://img.shields.io/github/followers/Kapozux?label=Followers&logo=github&color=2E5E4E" alt="Followers" /></a>
 </p>
 
 <p align="center"><b>I am a high schooler, and I currently make tools for myself that can process bulk personal text and recordings.</b></p>
