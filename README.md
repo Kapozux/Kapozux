@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E5E4E,100:6FA287&height=200&section=header&text=Kerwin&fontSize=64&fontColor=ffffff&desc=Tools%20for%20long-term%20personal%20text%20%26%20recordings&descAlignY=62&descSize=18" alt="Kerwin" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E5E4E,100:6FA287&height=200&section=header&text=Kerwin&fontSize=64&fontColor=ffffff&desc=Tools%20for%20long-term%20personal%20text%20%26%20recordings&descAlignY=62&descSize=18&animation=fadeIn" alt="Kerwin" />
 </p>
 
 <p align="center">
